@@ -1,9 +1,6 @@
 # QA-Manual-Testing-Portfolio
 Manual QA testing portfolio showcasing test cases, banking workflows, defect reports, regression testing and SQL validation.
 
-
-# Manual QA Testing Portfolio
-
 ## Professional Summary
 
 QA Tester with 4 years of experience in software testing
